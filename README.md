@@ -13,8 +13,8 @@
 [Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/Proposal.pdf) <br>
 ### Phase 2 Report 📁 :
 [Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/SAD%20Phase%202.pdf) <br>
-### Phase 2 Report 📁 :
-[Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/SAD%20Phase%203.pdf) <br> <br>
+### Phase 3 Report 📁 :
+[Click Here](https://github.com/CorneliaLim/System-Analysis-And-Design/blob/main/SAD%20Phase%203.pdf) <br> <br>
 
 ### OVERVIEW OF THE PROJECT
 In the ever-changing educational environment, universities and colleges are struggling with the task of managing resources effectively in the face of changing demands. Traditional methods often prove inadequate, lacking the transparency and efficiency needed to meet modern expectations. To address these challenges, we propose the development of a Campus Resource Management System (CRMS) specifically tailored to the needs of educational institutions.The CRMS serves as a centralized platform that integrates a variety of administrative and operational processes, such as facility booking, event management, and student and faculty management. By integrating these functions, CRMS improves efficiency and communication while optimizing resource utilization. The system empowers stakeholders with an user-friendly interface that promotes productivity and collaboration across the campus community. As educational institutions embrace innovation and technology, CRMS serves as a catalyst for positive change, opening up new possibilities for growth and student success. <br>
