@@ -12,7 +12,7 @@
 ### Phase 1 Report 📁 :
 [Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/Proposal.pdf) <br>
 ### Phase 2 Report 📁 :
-[Click Here](https://github.com/leomxue/Group4_Project1_SAD_20232024/blob/main/SAD%20Phase%202.pdf) <br>
+[Click Here](https://github.com/CorneliaLim/System-Analysis-And-Design/blob/main/SAD%20Phase%202.pdf) <br>
 ### Phase 3 Report 📁 :
 [Click Here](https://github.com/CorneliaLim/System-Analysis-And-Design/blob/main/SAD%20Phase%203.pdf) <br> <br>
 
